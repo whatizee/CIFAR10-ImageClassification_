@@ -1,5 +1,3 @@
-Here is a sample **README.md** file for your GitHub repository based on the content of the provided PDF document:
-
 ---
 
 # CIFAR-10 Challenge
@@ -88,5 +86,3 @@ Training and validation accuracy/loss plots for all models are available in the 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Let me know if you need to adjust or add specific details!
